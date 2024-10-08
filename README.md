@@ -1,2 +1,4 @@
 # An-Analysis-for-an-Oil-Trading-Company
-In our analysis, we develop a machine learning model that performs a twofold function. Initially, it categorizes wells based on various attributes, including geographic location, depth, age, and geological characteristics.
+In our analysis, we develop a machine learning model that performs a twofold function. Initially, it categorizes wells based on various attributes, including geographic location, depth, age, and geological characteristics.These attributes are critical in uncovering the factors that contribute to higher well productivity. For instance, wells situated in specific regions might encounter hydrocarbon deposits more frequently, while older wells might necessitate interventions to sustain their productivity.
+
+By understanding these dynamics, we can pinpoint the primary groups of wells. Following this classification, we apply a time series analysis to forecast expected productivity, taking into account trends, levels, and seasonality. This advanced analytical approach enables us to make data-driven decisions that significantly bolster our client's profitability.
